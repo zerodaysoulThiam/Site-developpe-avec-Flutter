@@ -1,28 +1,28 @@
-# 🏢 Mon Site Vitrine
+#  Mon Site Vitrine
 
 [![Flutter](https://img.shields.io/badge/Flutter-3.x-blue)](https://flutter.dev)
 [![Web](https://img.shields.io/badge/Web-Responsive-green)](https://github.com)
 
-## 📝 Description
+##  Description
 
 Ce projet est un **site vitrine professionnel** développé avec **Flutter Web**. 
 Il présente nos services, notre portfolio et nos coordonnées.
 
-## ✨ Fonctionnalités
+##  Fonctionnalités
 
-- 🎨 Design moderne et épuré
-- 📱 Interface 100% responsive
-- ⚡ Performance optimisée
-- 🔍 SEO-friendly
+-  Design moderne et épuré
+-  Interface 100% responsive
+-  Performance optimisée
+-  SEO-friendly
 
-## 🚀 Technologies
+##  Technologies
 
 - Flutter 3.x
 - Dart
 - HTML/CSS (généré)
 - GitHub Pages
 
-## 📦 Installation
+##  Installation
 
 ```bash
 git clone https://github.com/VOTRE_NOM/REPO_NAME.git

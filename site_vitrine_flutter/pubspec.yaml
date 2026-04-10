@@ -1,0 +1,15 @@
+name: site_vitrine_flutter  # Remplacez par le nom de votre application
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  font_awesome_flutter: ^10.8.0
+
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/  # Inclut récursivement tout le dossier images
